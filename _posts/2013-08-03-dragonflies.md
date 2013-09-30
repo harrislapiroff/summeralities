@@ -27,36 +27,36 @@ I've left home for the second time in my life. I'm not quite ready to settle dow
 
 From "Dragonflies Mating"—one of my favorite Robert Hass poems:
 
-> 6.
-> 
-> This morning in the early sun,
-> steam rising from the pond the color of smoky topaz,
-> a pair of delicate, copper-red, needle-fine insects
-> are mating in the unopened crown of a Shasta daisy
-> just outside your door. The green flowerheads look like wombs
-> or the upright, supplicant bulbs of a vegetal pre-erection.
-> The insect lovers seem to be transferring the cosmos into each other
-> by attaching at the tail, holding utterly still, and quivering intently.
-> 
-> I think (on what evidence?) that they are different from us.
-> That they mate and are done with mating.
-> They don’t carry all this half-mated longing up out of childhood
-> and then go looking for it everywhere.
-> And so, I think, they can’t wound each other the way we do.
-> They don’t go through life dizzy or groggy with their hunger,
-> kill with it, smear it on everything, though it is perhaps also true
-> that nothing happens to them quite like what happens to us
-> when the blue-backed swallow dips swiftly toward the green pond
-> and the pond’s green-and-blue reflected swallow marries it a moment
-> in the reflected sky and the heart goes out to the end of the rope
-> it has been throwing into abyss after abyss, and a singing shimmers
-> from every color the morning has risen into.
-> 
-> My insect instructors have stilled, they are probably stuck together
-> in some bliss and minute pulse of after-longing
-> evolution worked out to suck the last juice of the world
-> into the receiver body. They can’t separate probably
-> until it is done.
+> 6.  
+>   
+> This morning in the early sun,  
+> steam rising from the pond the color of smoky topaz,  
+> a pair of delicate, copper-red, needle-fine insects  
+> are mating in the unopened crown of a Shasta daisy  
+> just outside your door. The green flowerheads look like wombs  
+> or the upright, supplicant bulbs of a vegetal pre-erection.  
+> The insect lovers seem to be transferring the cosmos into each other  
+> by attaching at the tail, holding utterly still, and quivering intently.  
+>   
+> I think (on what evidence?) that they are different from us.  
+> That they mate and are done with mating.  
+> They don’t carry all this half-mated longing up out of childhood  
+> and then go looking for it everywhere.  
+> And so, I think, they can’t wound each other the way we do.  
+> They don’t go through life dizzy or groggy with their hunger,  
+> kill with it, smear it on everything, though it is perhaps also true  
+> that nothing happens to them quite like what happens to us  
+> when the blue-backed swallow dips swiftly toward the green pond  
+> and the pond’s green-and-blue reflected swallow marries it a moment  
+> in the reflected sky and the heart goes out to the end of the rope  
+> it has been throwing into abyss after abyss, and a singing shimmers  
+> from every color the morning has risen into.  
+>   
+> My insect instructors have stilled, they are probably stuck together  
+> in some bliss and minute pulse of after-longing  
+> evolution worked out to suck the last juice of the world  
+> into the receiver body. They can’t separate probably  
+> until it is done.  
 
 * * *
 
@@ -71,19 +71,19 @@ Josh Ritter, *Leaving*:
 
 > Travel
 > 
-> The railroad track is miles away,
-> &nbsp;&nbsp;And the day is loud with voices speaking,
-> Yet there isn't a train goes by all day
-> &nbsp;&nbsp;But I hear its whistle shrieking.
+> The railroad track is miles away,  
+> &nbsp;&nbsp;And the day is loud with voices speaking,  
+> Yet there isn't a train goes by all day  
+> &nbsp;&nbsp;But I hear its whistle shrieking.  
 > 
-> All night there isn't a train goes by,
-> &nbsp;&nbsp;Though the night is still for sleep and dreaming,
-> But I see its cinders red on the sky,
-> &nbsp;&nbsp;And hear its engine steaming.
+> All night there isn't a train goes by,  
+> &nbsp;&nbsp;Though the night is still for sleep and dreaming,  
+> But I see its cinders red on the sky,  
+> &nbsp;&nbsp;And hear its engine steaming.  
 > 
-> My heart is warm with the friends I make,
-> &nbsp;&nbsp;And better friends I'll not be knowing;
-> Yet there isn't a train I wouldn't take,
-> &nbsp;&nbsp;No matter where it's going.
+> My heart is warm with the friends I make,  
+> &nbsp;&nbsp;And better friends I'll not be knowing;  
+> Yet there isn't a train I wouldn't take,  
+> &nbsp;&nbsp;No matter where it's going.  
 > 
 > — Edna St. Vincent Millay
