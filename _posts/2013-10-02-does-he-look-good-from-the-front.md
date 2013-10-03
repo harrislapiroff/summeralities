@@ -19,7 +19,7 @@ He says, "I saw you walking  and I thought, 'Well he looks good from behind, but
 
 "You look like you're 18. You've got a young face. How do you like Poughkeepsie?"
 
-"Well, I don't really feel like I've actually seem it much. My friend I'm visiting works at Vassar, so I've spent most of my visit on campus. Seems like a nice town though."
+"Well, I don't really feel like I've actually seen it much. My friend I'm visiting works at Vassar, so I've spent most of my visit on campus. Seems like a nice town though."
 
 As we walk, he points out various locations of significance in Poughkeepsie's history or his own life. He tells me he's lived in Poughkeepsie for 20 years. He tells me that he used to be in advertising, but five years ago he was in a wicked car accident and now he's on disability. He's in pain all the time he says and there's something with his eye. Sometimes he gets insomnia. He has trouble getting behind the wheel of a car. They tell him he's got post traumatic stress disorder. Still, he keeps up a good clip as we're walking together and never once waits for stop lights, preferring to dash in between cars passing. He tells me I'd love Boston, so I tell him I've been there and I do. "You have? Of course you have." This happens several more times when he asks about Washington state and Portland OR, and California. Each time he mentions a city, I've been there recently. 
 
