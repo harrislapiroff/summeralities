@@ -3,11 +3,38 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="row">
+	<div class="col-md-4">
+		<h1>Journal</h1>
+		<div class="list-group">
+			{% for post in site.categories.journal %}
+				<a href="{{ post.url }}" class="list-group-item">
+					{{ post.title }}<br />
+					<span class="text-muted">{{ post.date | date_to_string }}</span>
+				</a>
+			{% endfor %}
+		</div>
+	</div>
+	<div class="col-md-4">
+		<h1>Art <span class="amp">&amp;</span> Poetry</h1>
+		<div class="list-group">
+			{% for post in site.categories.art-and-poetry %}
+				<a href="{{ post.url }}" class="list-group-item">
+					{{ post.title }}<br />
+					<span class="text-muted">{{ post.date | date_to_string }}</span>
+				</a>
+			{% endfor %}
+		</div>
+	</div>
+	<div class="col-md-4">
+		<h1>Books</h1>
+		<div class="list-group">
+			{% for post in site.categories.books %}
+				<a href="{{ post.url }}" class="list-group-item">
+					{{ post.title }}<br />
+					<span class="text-muted">{{ post.date | date_to_string }}</span>
+				</a>
+			{% endfor %}
+		</div>
+	</div>
 </div>

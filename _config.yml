@@ -1,5 +1,5 @@
 name: Summmeralities
-description: "Art, writing, & increasing disquiet by Harris Lapiroff"
+description: "Art, writing, & increasing disquiet by Harris Lapiroff."
 markdown: kramdown
 pygments: true
 source: ./_source
