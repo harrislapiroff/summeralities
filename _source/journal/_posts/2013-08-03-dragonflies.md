@@ -27,7 +27,7 @@ I've left home for the second time in my life. I'm not quite ready to settle dow
 
 From "Dragonflies Mating"—one of my favorite Robert Hass poems:
 
-> 6.  
+> 6\.  
 >   
 > This morning in the early sun,  
 > steam rising from the pond the color of smoky topaz,  
