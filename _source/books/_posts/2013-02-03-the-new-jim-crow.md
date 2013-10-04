@@ -1,0 +1,43 @@
+---
+layout: post
+title: "The New Jim Crow"
+book_title: "The New Jim Crow"
+book_author: "Michelle Alexander"
+date: "2013-02-03"
+categories: "reflections"
+tags: ""
+---
+
+I have just finished reading Michelle Alexander's *The New Jim Crow*. I have pages upon pages of notes from it and a strong desire to advise *everyone* to read this book.
+
+In the book, Alexander lucidly outlines the structure that allows the criminal justice system to sweep stunning numbers of black men into the system, putting them behind bars, affixing to them the stigma of criminality, labeling them as felons, and literally stripping them of the rights that we assume are associated with U.S. citizenship. I can't cover her entire argument here, but the components she addresses are the degree of freedom given to enforcement in the War on Drugs (which itself is something of a sham--drug use was actually declining when the War on Drugs was declared), the unconscious racial biases which plague pretty much all of us--law enforcement included--, the disproportionate degree of punishment for even minor drug crimes, the amount of power given to prosecutors in trial, and how the court system has closed itself off from accusations of racial bias.
+
+What is partially striking to me in reading this book is how readily I accepted Alexander's conclusions. In part, I was prepared for them. I had been prepared by [Dean Spade](/reflections/2012/12/16/normal-life.html) for the gross unfairness of the prison system--for how it targets minorities. And I had been prepared by [Tim Wise](http://vimeo.com/25637392) to understand the disparity in how law enforcement treats black people versus white people, despite the fact that they commit drug crimes at virtually identical rates (with some studies showing higher rates among whites). So most of the book was just facts and anecdotes that were, mostly, unsurprising to me, but revealed how deeply the system is broken.
+
+> The temptation is to insist that black men 'choose' to be criminals; the system does not make them criminals, at least not the way that slavery made blacks slaves or Jim Crow made them second-class citizens. The myth of choice here is seductive, but it should be resisted. African Americans are not significantly more likely to use or sell prohibited drugs than whites, but they are *made* criminals at drastically higher rates for precisely the same conduct. In fact, studies suggest that white professionals may be the most likely of any group to have engaged in illegal drug activity in their lifetime, yet they are the least likely to be made criminals.
+
+As a personal aside, I wonder a little what it means that I so readily accepted the book's premise completely. In the introduction, Alexander herself says that she was skeptical of the analogy between modern mass incarceration and Jim Crow before she started researching it. I had no such skepticism, starting this book. I can't tell if I've gone so far off the liberal deep end that I've become credulous,--or if I've just gone far enough that I am seeing things for the systems of power that they are. That's not rhetorical--it's something I am legitimately wondering. Part of my task in this year--in my final year within the Oberlin bubble--has been to radicalize myself (more on this at a later date), to let go of my political apathy, to care about saving and improving lives and to educate myself. But I'd also like to be sure I am maintaining my groundedness and skepticism.
+
+In either case, Alexander makes her case well and persuasively. A lot of her arguments fit in with arguments from [Dean Spade's *Normal Life*](/reflections/2012/12/16/normal-life.html). It's not just that both of them condemn the prison system as a tool of oppression--but also the ways in which they are critical of contemporary activism. Spade condemns non-profits of reflecting professional corporate structures without involving the most vulnerable people they ostensibly serve. Alexander similarly pins contemporary civil rights organizations:
+
+> The success of the brilliant legal crusade that led to *Brown v. Board of Education* has created a widespread perception that civil rights lawyers are the most important players in racial justice advocacy. \[...\] With all deliberate speed, civil rights organizations became 'professionalized' and increasingly disconnected from the communities they claimed to represent.
+
+Some things--especially from the final, very powerful chapter--did take me by surprise. I've heard the point made before that black people are hardly better off than they were during Jim Crow, but I was never prepared to actually consider that before reading this book:
+
+> As recent data shows, however, much of black progress is a myth. Although some African Americans are doing very well—enrolling in universities and graduate schools at record rates thanks to affirmative action—as a group, African Americans are doing no better than they were when Martin Luther King Jr. was assassinated and riots swept inner cities across America. Nearly one-fourth of African Americans live below the poverty line today, approximately the same as in 1968. The child poverty rate is actually higher today than it was then. Unemployment rates in black communities rival those in Third World countries. And that is *with* affirmative action.
+
+In the final chapter, Alexander makes a striking argument that I've never heard before against affirmative action, which I'm still chewing over. At the same time, she makes a fantastic argument against a colorblind society--now *and* in the future. Of course, I've long realized that--ostensible--colorblindness is hurting black people today, but I had never really considered that colorblindness should not even be a goal that we are striving toward:
+
+> The fact that so many black and brown men are rounded up for drug crimes that go largely ignored when committed by whites is unseen. Our collective colorblindness prevents us from seeing this basic fact. \[...\] Abandoning the quest for a colorblind society is easier said than done, of course. Racial justice advocates, if they should choose this path, will be required to provide uncomfortable answers to commonly asked questions. For example, advocates are frequently asked, When will be (finally) become a colorblind society? The pursuit of colorblindness makes people impatient. With courage, we should respond: *Hopefully never.* Or if those words are too difficult to utter, then say: 'Not in the foreseeable future.'
+> 
+> \[...\]
+>
+> For liberals, the ideal of colorblindness is linked to the dream of racial equality. The hope is that one day we will no longer see race because race will have lost all of its significance. \[...\] The uncomfortable truth, however, is that racial differences will *always* exist among us. Even if the legacies of slavery, Jim Crow, and mass incarceration were completely overcome, we would remain a nation of immigrants in a larger world divided by race and ethnicity. It is a world in which there is extraordinary racial and ethnic inequality, and our nation has porous boundaries. For the foreseeable future, racial and ethnic inequality will be a feature of American life.
+
+In the final chapter, like Spade, Alexander calls for more than just reforms of inclusion--she calls for revolution, citing Martin Luther King's determination (I started this book, somewhat auspiciously, on Martin Luther King, Jr. Day two weeks ago) at the end of his life:
+
+> \[King told SCLC staff,\] "after Selma and the voting rights bill, we moved into a new era, which must be an era of revolution. We must see the great distinction between a reform movement and a revolutionary movement. We are called upon to raise certain basic questions about the whole society."
+> 
+> More than forty years later, civil rights advocacy is stuck in a model of advocacy King was determined to leave behind. Rather than challenging the basic structure of society and doing the hard work of movement building—the work to which King was committed at the end of his life—we have been tempted too often by the opportunity for people of color to be included within the political and economic structure as-is, even if it means alienating those who are necessary allies.
+
+I found this book incredibly powerful. It's not a novel, or even a narrative, and yet, I found myself tearing up when I reached the end of it. The more people who read this book, the better work we'll be able to do for racial justice.

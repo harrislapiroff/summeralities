@@ -1,0 +1,17 @@
+---
+layout: post
+title: "The Invention of Hugo Cabret"
+book_title: "The Invention of Hugo Cabret"
+book_author: "Brian Selznick"
+date: "2013-1-21"
+categories: "reflections"
+tags: ""
+---
+
+Something that I try to pay attention to, when I am reading books whose film adaptations I have also seen, is what I can get out of the book that I would not have gotten out of the film alone and vice-versa. It's always nice when a film is faithful to its source material, but I find the places where they chose to diverge even *more* interesting. In the case of Brian Selznick's *The Invention of Hugo Cabret*, I was actually watching the Martin Scorsese adaptation *Hugo* (which I adore adore adore) for the second time with Ma'ayan, when she suggested that I should also read the novel.
+
+*The Invention of Hugo Cabret* is a sweet children's novel, with lovely pictures that are given equal weight to the text--making it ripe for film adaptation. It is somewhere between a traditional novel and a comic. In reading the book, it was striking to me how faithful the movie was--the aesthetics matched very closely and the story did not diverge in any critical ways. But the movie, somewhat surprisingly, built a much fuller world of the train station Hugo lives in. One of the things I love so much about the movie is that the minor characters who appear in the novel, and even a few new characters who do not, are each given fleshed out personalities and their own little subplots. The station inspector, for instance, is a villain in both the novel and film, but in the film he is given considerably more background: he's a lonely man, who lost the use of his leg in the war, grew up an orphan, and is in love with the flower seller Lisette (played by the perpetually adorable Emily Mortimer). And the Madame Emile and Monsieur Frick, whose mutual love of each other is kept at bay by Emile's ornery dog. Scorsese and the writer John Logan built an entire world around the core of the story from Brian Selznick's book.
+
+Another divergence is Hugo's character. Hugo's character in the film has his flaws--an unnecessary obsession with secrecy and being alone in the world--but the Hugo in the book--in the beginning of the book, anyway--I found obnoxious and ethically questionable. He continues to steal from Papa Georges and surreptitiously plot how to steal his book even as Papa Georges gives him a job with the possibility of returning his book. He refuses Isabelle's friendship. Because of this difference, the reader witnesses the Hugo of the novel not only finding his place in the external world, but also becoming a better person within himself.
+
+This is a difference I've noticed in other film adaptations as well. The film version *V for Vendetta* for instance, portrays the protagonist *V* as nearly perfect morally and a tragic genius, while--not avoiding, exactly, but glossing over his violent acts. The novel version gives a much more complex and troubling portrayal of his relationship to violence. I wonder if that's something about the medium of film--if film requires its protagonists to be more perfect than not. On the other hand, perhaps a sample size of two is insufficient. Films to explore complexity of characters and ethical issues certainly can be and have been made.
