@@ -1,0 +1,15 @@
+---
+title: On Writing
+layout: post
+---
+
+It's summer and I've been thinking about writing. I'll admit that I've never been good at writing regularly. Whether creative writing, journaling, [blogging][] (sorry, Ma'ayan!), or letter-writing, I have always been neglectful. But in the past, when I have written, it has been mostly in the summer. Two summers ago I wrote a play. It's brief, self-indulgent, and not especially interesting, but it has some lovely moments and it remains the most substantial, complete piece of writing I've done to date. It was two years ago--and truth be told, the amount that I write, never significant to begin with, has dropped precipitously since then.
+
+What happened? I gave up on being a creative writing major. I chose math. That certainly takes a lot of time away from the art. Also--I'm not sure why, except the general uncertainty about almost everything ever that grows in me every year--I've grown to distrust my words. In the unlikely event that I send you writing in the mail, it is more likely to be an O'Hara poem or an Emerson quote than anything of my own. I keep [a blog][whimsicalities] that is exclusively devoted to other people's thoughts. I trust other people's writing to be engaging, articulate, and deep (i.e., having depths to plumb). I don't give myself that same trust. Not in drama, prose, and especially not in poetry. And part of it, is a simple lack of inspiration. It's rare that I am actually inspired to sit down and hammer out words and when I try to force myself into it, I'm at a loss for what I'd like to write.
+
+It's hard to say if I feel bad about this. I think that I do, but when I said so to David, he told me not to. "The people who want to be writers are going to write. They're going to want to do it. If you find there are other things that you like doing more with your time--socializing or dancing or making websites--then you should do that." It's a difficult and complex message for me to digest. I appreciate him letting me off the hook like that, but at the same time he basically told me that I am not a writer. Which is fine, I think. I'm not planning on being rich and famous from my writing, nor do I intend to devote my life to it, nor am I expecting, really, to have any of it published or produced.
+
+But I'm a *good* writer, dammit. Not a great one, but better than average. I *am* clear and articulate. I find the words I mean to use and use them precisely. I embed my writing with literary allusions and clever puzzles and syntactic surprises for anyone who spends a little time with it. I appreciate good writing and I want other people to appreciate mine. I know that if I only had a little more drive I could make something great.
+
+[blogging]:http://blogs.oberlin.edu/Harris.shtml
+[whimsicalities]:http://whimsicaliti.es/
