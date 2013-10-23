@@ -3,9 +3,14 @@ layout: default
 ---
 
 {% if page.image %}
-	<h1>
+	<div class="header-image">
 		<img class="img-rounded img-responsive" src="{{ site.url }}{{ page.image }}" />
-	</h1>
+		{% if page.image_title %}
+			<div class="image-caption">
+				{{ page.image_title }}
+			</div>
+		{% endif %}
+	</div>
 {% endif %}
 
 <div class="row">

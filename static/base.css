@@ -22,6 +22,28 @@ hr {
 	border-color: #CCC;
 }
 
+.header-image {
+	margin-top: 30px;
+	position: relative;
+}
+.header-image > .image-caption {
+	font-size: 14px;
+	line-height: 20px;
+	color: #E5E5E5;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	padding: 2px 8px;
+	background: rgba(0,0,0,.5);
+	border-radius: 0 0 6px 6px;
+	opacity: 0;
+	transition: .15s linear opacity;
+}
+.header-image:hover > .image-caption {
+	opacity: 1;
+}
+
 .footnotes {
 	margin-top: 30px;
 	padding-top: 27px;

@@ -4,7 +4,16 @@ title: Your New Jekyll Site
 ---
 
 {% if site.categories.journal[0].image %}
-	<h1><img class="img-rounded img-responsive" src="{{ site.url }}{{ site.categories.journal[0].image }}" /></h1>
+	<div class="header-image">
+		<a href="{{ site.categories.journal[0].url }}"> 
+			<img class="img-rounded img-responsive" src="{{ site.url }}{{ site.categories.journal[0].image }}" />
+		</a>
+		{% if site.categories.journal[0]..image_title %}
+			<div class="image-caption">
+				{{ site.categories.journal[0]..image_title }}
+			</div>
+		{% endif %}
+	</div>
 {% endif %}
 
 <div class="row">
