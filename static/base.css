@@ -22,6 +22,10 @@ hr {
 	border-color: #CCC;
 }
 
+.site-title > a{
+	color: #555;
+}
+
 .header-image {
 	margin-top: 30px;
 	position: relative;
