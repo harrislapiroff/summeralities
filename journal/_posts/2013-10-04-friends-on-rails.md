@@ -31,7 +31,7 @@ At this point I turned around to say, "I couldn't help but overhear your convers
 
 ***
 
-Back on the California Zephyr I was relating this story to another new friend. I wanted to share an example of how small the world is when you ride trains and of how many connections there must be that we never even discover. He was an older white man from the woods of Oregon, traveling with a woman who seemed to be his wife and another person (friend? relative?). When I finished my story he said, "You know, people have twisted what the civil rights movement these days. They've made it mean what they want it to mean and forgotten what it was really about."
+Back on the California Zephyr I was relating this story to another new friend. I wanted to share an example of how small the world is when you ride trains and of how many connections there must be that we never even discover. He was an older white man from the woods of Oregon, traveling with a woman who seemed to be his wife. When I finished my story he said, "You know, people have twisted what the civil rights movement meant these days. They've made it mean what they want it to mean and forgotten what it was really about."
 
 I nodded, despite a sinking feeling in my stomach. A statement as general as that, I can actually agree with. Towards the end of his life, MLK Jr. was preaching a politics of revolution—something more than just law reform. He was calling on his followers to question the fundamentals upon which American society rests. This, I believe, is a message that has gotten lost in the intervening years. And so I nodded in agreement, despite my dread for what this man was about to say. Behind him, I saw his wife roll her eyes and move to leave, returning back to their seats. 
 
