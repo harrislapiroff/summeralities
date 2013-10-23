@@ -22,8 +22,32 @@ hr {
 	border-color: #CCC;
 }
 
-.site-title > a{
+.site-title > a {
 	color: #555;
+}
+
+.section-title {
+	padding-bottom: 15px;
+	margin-bottom: 0;
+	border-bottom: 1px solid #EEE;
+	color: #999;
+}
+
+.post-list-item {
+	color: #333;
+	display: block;
+	padding: 8px 0 7px 0;
+	border-bottom: 1px solid #EEE;
+}
+.post-list-item:hover {
+	text-decoration: none;
+}
+.post-list-item > .post-title {
+	font-weight: 700;
+}
+.post-list-item > .post-date {
+	display: inline-block;
+	color: #999;
 }
 
 .header-image {

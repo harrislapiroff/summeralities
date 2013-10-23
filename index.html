@@ -18,34 +18,34 @@ title: Your New Jekyll Site
 
 <div class="row">
 	<div class="col-md-4">
-		<h1>Journal</h1>
-		<div class="list-group">
+		<h1 class="section-title">Journal</h1>
+		<div class="post-list">
 			{% for post in site.categories.journal %}
-				<a href="{{ post.url }}" class="list-group-item">
-					{{ post.title }}<br />
-					<span class="text-muted">{{ post.date | date_to_string }}</span>
+				<a href="{{ post.url }}" class="post-list-item">
+					<span class="post-title">{{ post.title }}</span>
+					<span class="post-date">{{ post.date | date_to_string }}</span>
 				</a>
 			{% endfor %}
 		</div>
 	</div>
 	<div class="col-md-4">
-		<h1>Art <span class="amp">&amp;</span> Poetry</h1>
-		<div class="list-group">
+		<h1 class="section-title">Art <span class="amp">&amp;</span> Poetry</h1>
+		<div class="post-list">
 			{% for post in site.categories.art-and-poetry %}
-				<a href="{{ post.url }}" class="list-group-item">
-					{{ post.title }}<br />
-					<span class="text-muted">{{ post.date | date_to_string }}</span>
+				<a href="{{ post.url }}" class="post-list-item">
+					<span class="post-title">{{ post.title }}</span>
+					<span class="post-date">{{ post.date | date_to_string }}</span>
 				</a>
 			{% endfor %}
 		</div>
 	</div>
 	<div class="col-md-4">
-		<h1>Books</h1>
-		<div class="list-group">
+		<h1 class="section-title">Books</h1>
+		<div class="post-list">
 			{% for post in site.categories.books %}
-				<a href="{{ post.url }}" class="list-group-item">
-					{{ post.title }}<br />
-					<span class="text-muted">{{ post.date | date_to_string }}</span>
+				<a href="{{ post.url }}" class="post-list-item">
+					<span class="post-title">{{ post.title }}</span>
+					<span class="post-date">{{ post.date | date_to_string }}</span>
 				</a>
 			{% endfor %}
 		</div>
