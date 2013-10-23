@@ -89,7 +89,7 @@ I listened, and held my tongue.
 
 Later, while we were hanging out with Peng, Adriana, Rafeel (a quiet Pakistani man, roughly my age, on vacation from his job in Seattle), Nick brought over a new friend. "Guys," he said, "meet Carson."
 
-Carson is an 30-year old man from Durban, South Africa, but he has a very young feel to him. As the six of us hung out and chatted in the lounge car, late into the night—three of us (myself included) getting drunk on Southern Comfort and Dr. Pepper, the other three remaining mostly sober—Carson related his life story to us.
+Carson is a 30-year old man from Durban, South Africa, but he has a very young feel to him. As the six of us hung out and chatted in the lounge car, late into the night—three of us (myself included) getting drunk on Southern Comfort and Dr. Pepper, the other three remaining mostly sober—Carson related his life story to us.
 
 Carson is ethnically ambiguous. He has dark skin and looks like he could easily be either Black or Indian South African, quite probably some combination of each. He said he grew up in a strict Hindi household in Durban, but never really took to it and never felt like Durban was home. When he was 21, he moved to the United States to find somewhere that felt like home and he's been moving from place to place ever since, still looking.
 
