@@ -20,13 +20,16 @@
 	<body>
 		<div class="container">
 			<div class="site">
-			  <div class="page-header">
-					<h1 class="title"><a href="/">{{ site.name }}</a></h1>
-					<p class="text-muted">{{ site.description }}</p>
-			  </div>
-
-			  {{ content }}
-			  
+				<div class="row">
+					<div class="col-md-3">
+						<h1 class="title"><a href="/">{{ site.name }}</a></h1>
+						<p class="text-muted">{{ site.description }}</p>
+					</div>
+					<div class="col-md-9">
+						{{ content }}
+					</div>
+				</div>
+			
 			</div>
 		</div><!-- /.container -->
 		<script type="text/javascript">
