@@ -1,6 +1,8 @@
 ---
 title: Is this happiness?
 layout: post
+image: /journal/media/2013-09-30-luminaries.jpg
+image_title: "Nighttime meditation walk at Vassar College"
 ---
 
 A few days after I started traveling in August, a thought occurred to me: "I am happy. There is no life right now that I envy more than my own." This is new, I think. It felt like a very small thought, but I don't think I've ever had that feeling before. There's nothing I can imagine doing more pleasurable than wandering the country, remembering that I have friends in different places, that they are real, and that they like me and are happy to see me. There's nothing more eye-opening than meeting strangers from a variety of backgrounds, with a variety of life-experiences and learning about them.

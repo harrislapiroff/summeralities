@@ -1,6 +1,8 @@
 ---
 title: We're not as pretty as the dragonflies.
 layout: post
+image: /journal/media/2013-08-03-pinewoods.jpg
+image_title: "Harmony of Song and Dance Week at Pinewoods, 2012"
 ---
 
 All week I have seen insects landing. I was lying on my stomach on a small dock by the pond, reading (*Infinite Jest*, the eternal project) when two damselflies lit on me, one on my hand and one on my book. They stayed there, until I turned the page. At lunch one day I found a beautiful and bold moth on the table, who happily climbed onto my finger when I offered it and stayed with me for a while. My new insect friend. I've been thinking about bugs with their beautiful bodies and short lives, their wings that grant them both freedom and fragility. Dragonflies skimming the surface of the water. Enormous luna moths decorating cabins of North Carolina. The millepedes of South Africa.

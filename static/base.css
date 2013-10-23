@@ -1,8 +1,36 @@
+body {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 32px;
+	font-family: Lato, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+	font-family: Lato, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+p {
+	margin:30px 0;
+}
+
+hr {
+	margin: 30px auto 29px auto;
+	width: 20%;
+	border-color: #CCC;
+}
+
 .footnotes {
-	margin-top: 20px;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	margin-top: 30px;
+	padding-top: 27px;
+	padding-bottom: 30px;
 	border-top: 3px double #EEE;
-	font-size:.9em;
-	color: #555;
+	font-size:16px;
+	line-height: 20px;
+	color: #666;
+}
+.footnotes p{
+	margin: 10px 0;
 }

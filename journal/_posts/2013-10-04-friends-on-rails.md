@@ -1,7 +1,8 @@
 ---
 title: Friends on Rails
 layout: post
-image: /journal/media/utah.jpg
+image: /journal/media/2013-10-04-utah.jpg
+image_title: "Green River, Utah"
 ---
 
 I met Nick[^nick] on the California Zephyr train from Emeryville CA to Chicago IL. I had already met Peng, a Laotian life insurance agent from Richmond CA, and Adriana, a sophomore geology student at U of Chicago, when Nick boarded in Reno NV. Adriana had been keeping her eyes open for wild horses and we finally spotted a cluster shortly after departing the station. "Oh, yeah, the horses?" Nick said, pulling up a seat next to me in the lounge car. "They're like raccoons around here. They keep trying to get rid of them, but they can't seem to do it."
