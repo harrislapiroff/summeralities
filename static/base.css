@@ -8,8 +8,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 	font-family: Lato, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin-top: 30px;
-	margin-bottom: 15px;
+	margin-top: 32px;
+	margin-bottom: 16px;
 }
 
 p {
@@ -29,7 +29,6 @@ hr {
 .section-title {
 	padding-bottom: 15px;
 	margin-bottom: 0;
-	border-bottom: 1px solid #EEE;
 	color: #999;
 }
 
@@ -37,7 +36,7 @@ hr {
 	color: #333;
 	display: block;
 	padding: 8px 0 7px 0;
-	border-bottom: 1px solid #EEE;
+	border-top: 1px solid #EEE;
 }
 .post-list-item:hover {
 	text-decoration: none;
@@ -83,4 +82,17 @@ hr {
 }
 .footnotes p{
 	margin: 10px 0;
+}
+
+.footer {
+	padding-top: 15px;
+	padding-bottom: 16px;
+	border-top: 1px solid #EEE;
+	color: #BBB;
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.footer a {
+	color: #999;
 }
