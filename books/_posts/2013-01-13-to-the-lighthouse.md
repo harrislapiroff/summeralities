@@ -3,9 +3,6 @@ layout: post
 title: "To the Lighthouse"
 book_title: "To the Lighthouse"
 book_author: "Virginia Woolf"
-date: "2013-1-13"
-categories: "reflections"
-tags: ""
 ---
 
 I suspect that I'm going to have to write more than one reflection on Virginia Woolf's *To the Lighthouse*--this one now, and one after I've spent a little time digesting, rereading, and getting more context on it. It is a beautiful book, which I am not at all sure I understand.

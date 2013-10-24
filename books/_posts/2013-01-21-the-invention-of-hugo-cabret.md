@@ -3,9 +3,6 @@ layout: post
 title: "The Invention of Hugo Cabret"
 book_title: "The Invention of Hugo Cabret"
 book_author: "Brian Selznick"
-date: "2013-1-21"
-categories: "reflections"
-tags: ""
 ---
 
 Something that I try to pay attention to, when I am reading books whose film adaptations I have also seen, is what I can get out of the book that I would not have gotten out of the film alone and vice-versa. It's always nice when a film is faithful to its source material, but I find the places where they chose to diverge even *more* interesting. In the case of Brian Selznick's *The Invention of Hugo Cabret*, I was actually watching the Martin Scorsese adaptation *Hugo* (which I adore adore adore) for the second time with Ma'ayan, when she suggested that I should also read the novel.

@@ -3,9 +3,6 @@ layout: post
 title: "Israel/Palestine and the Queer International"
 book_title: "Israel/Palestine and the Queer International"
 book_author: "Sarah Schulman"
-date: "2013-02-20 8:30PM"
-categories: "reflections"
-tags: ""
 ---
 
 Seeing Sarah Schulman speak opened my eyes to a world of politics I had never really given much thought to before--the queer dimensions of international politics. Israel/Palestine and queer politics are both issues that I care about, so there was something very satisfying in discovering them as linked. Schulman herself is an extremely intelligent long-term activist who has worked within the queer movement for a long time, notably as a member of AIDS Coalition to Unleash Power (ACTUP). Her talk and her book *Israel/Palestine and the Queer International* detail her history growing up Jewish and her relationship to Palestine and her journey, later in life, into activism on the subject.

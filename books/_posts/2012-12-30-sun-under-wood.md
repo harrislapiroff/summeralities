@@ -3,9 +3,6 @@ layout: post
 title: "Sun Under Wood"
 book_title: "Sun Under Wood"
 book_author: "Robert Hass"
-date: "2012-12-30"
-categories: "reflections"
-tags: ""
 ---
 
 This reading of Robert Hass's *Sun Under Wood* was actually a *re*reading, sort of. I say "sort of" because I didn't ever read it thoroughly. I tend to do a cursory reading of books of poetry, jumping around, searching for poems that catch my eye, skipping the ones that seem dense, long, or dull. One of the nice things about reading books of poetry for this project is that the sense of obligation I feel to doing this project to completion every week carries over to the individual books I read; I feel obligated to read a book in its entirety (that is, if I do not abandon it, as I did with *Sexing the Body* earlier this week, before choosing *Sun Under Wood* instead), to dwell in its words for the entire week, to miss as little as possible. And it turns out that some of the poems I thought would be dull are not so dull after all. Even the ones which are dull upon first reading often benefit from multiple readings and contemplation.

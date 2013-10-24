@@ -3,9 +3,6 @@ layout: post
 title: "The Big Short"
 book_title: "The Big Short"
 book_author: "Michael Lewis"
-date: "2012-12-24"
-categories: "reflections"
-tags: ""
 ---
 
 I picked up Michael Lewis's *The Big Short*, as I recall, because when Ira Glass came to speak at Oberlin College last year, he recommended it as a masterpiece of storytelling. As Ira Glass is one of the best storytellers in popular media, I figured anything he recommended has got to be pretty good--and I was not disappointed.

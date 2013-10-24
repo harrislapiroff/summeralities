@@ -3,9 +3,6 @@ layout: post
 title: "The Fire Next Time"
 book_title: "The Fire Next Time"
 book_author: "James Baldwin"
-date: "2013-02-26 8:30AM"
-categories: "reflections"
-tags: ""
 ---
 
 I love the physical form of this book. I got it from Mudd library. It is small, slender, and gray. The spine says simply JAMES BALDWIN. The front cover has a faded embossing of a symbol--a leaping dancer holding aloft a flaming hand. It is unassuming. And yet, as the title of the book suggests, it is full of fire.

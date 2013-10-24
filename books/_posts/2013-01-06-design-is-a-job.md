@@ -3,9 +3,6 @@ layout: post
 title: "Design is a Job"
 book_title: "Design is a Job"
 book_author: "Mike Monteiro"
-date: "2013-1-6"
-categories: "reflections"
-tags: ""
 ---
 
 I had planned to write about Virginia Woolf's *To the Lighthouse* this week, but as I only got started on it mid-week and it was a week particularly fraught with all sorts of time sucks--travel, illness, and a new client job (this is relevant)--it very quickly became clear that I was not going to have time to finish the book before the week's end.

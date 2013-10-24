@@ -3,9 +3,6 @@ layout: post
 title: "Attention: People With Body Parts"
 book_title: "Attention: People With Body Parts"
 book_author: "Lexie Bean"
-date: "2013-02-11"
-categories: "reflections"
-tags: ""
 ---
 
 I realized, sometime in the past few weeks, that in reading a book a week, I didn't just have to read books that were mass published and distributed--that I could read books that come from within my communities. *Attention: People With Body Parts* is my first such book. It's a series of letters written by different people to different parts of their body, collected by my acquaintance, current Oberlin College student, Lexie Bean. It was lovely to think, for a week, about bodies. I have always felt a little more disconnected from my body than I want to be and it's nice to be given the opportunity to pay attention to my own body and to others' bodies and discover new and interesting things.

@@ -3,9 +3,6 @@ layout: post
 title: "The New Jim Crow"
 book_title: "The New Jim Crow"
 book_author: "Michelle Alexander"
-date: "2013-02-03"
-categories: "reflections"
-tags: ""
 ---
 
 I have just finished reading Michelle Alexander's *The New Jim Crow*. I have pages upon pages of notes from it and a strong desire to advise *everyone* to read this book.
