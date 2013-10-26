@@ -1,3 +1,7 @@
+.post-content, .post-date {
+	-webkit-font-smoothing: antialiased;
+}
+
 body {
 	font-size: 20px;
 	font-weight: 400;
