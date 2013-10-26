@@ -4,7 +4,7 @@ layout: post
 image: /journal/media/2013-10-09-paddington.jpg
 ---
 
-I arrived in London completely exhausted. I deliberately selected a routing to South Africa that gave me a 13-hour layover in London, but I failed to anticipate how the timing was going to mess with my body. My flight landed in London at 7AM GMT, which is 1PM EDT—the time that I would normally be going to sleep. The result was that I didn't sleep a wink on the flight over, but as soon as we landed I was totally exhausted and ready for bed. Nevertheless, I was determined to take advantage of my limited time in London (I've been twice before--both times when I was much younger, on family vacations) and see the sights.
+I arrived in London completely exhausted. I deliberately selected a routing to South Africa that gave me a 13-hour layover in London, but I failed to anticipate how the timing was going to mess with my body. My flight landed in London at 7AM GMT, which is 1AM EDT—the time that I would normally be going to sleep. The result was that I didn't sleep a wink on the flight over, but as soon as we landed I was totally exhausted and ready for bed. Nevertheless, I was determined to take advantage of my limited time in London (I've been twice before--both times when I was much younger, on family vacations) and see the sights.
 
 I wandered, in a haze, through the British Museum's remarkable collection of artifacts.
 
