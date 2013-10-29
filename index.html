@@ -8,9 +8,10 @@ title: Your New Jekyll Site
 		<a href="{{ site.categories.journal[0].url }}"> 
 			<img class="img-rounded img-responsive" src="{{ site.url }}{{ site.categories.journal[0].image }}" />
 		</a>
-		{% if site.categories.journal[0]..image_title %}
+		{% if site.categories.journal[0].image_title %}
 			<div class="image-caption">
-				{{ site.categories.journal[0]..image_title }}
+				<strong>{{ site.categories.journal[0].image_title }}{% if site.categories.journal[0].image_caption %}:{% endif %}</strong>
+				{{ site.categories.journal[0].image_caption }}
 			</div>
 		{% endif %}
 	</div>

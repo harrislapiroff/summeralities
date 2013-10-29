@@ -88,9 +88,17 @@ blockquote, blockquote p {
 	border-radius: 0 0 6px 6px;
 	opacity: 0;
 	transition: .15s linear opacity;
+	-webkit-font-smoothing: antialiased;
 }
 .header-image:hover > .image-caption {
 	opacity: 1;
+}
+.header-image > .image-caption > strong {
+	color: #FFF;
+	font-weight: 700;
+}
+.header-image > .image-caption a {
+	color: #9EF;
 }
 
 .footnotes {
