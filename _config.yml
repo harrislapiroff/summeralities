@@ -3,3 +3,5 @@ description: "It’s always summer here.<br /><br />Art, writing, and increasing
 markdown: kramdown
 pygments: true
 url: http://summer.whimsicaliti.es
+safe: true
+lsi: false
