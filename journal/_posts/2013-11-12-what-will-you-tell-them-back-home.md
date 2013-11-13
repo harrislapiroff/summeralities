@@ -20,7 +20,7 @@ Thoughts and experiences alone are admittedly not going to change the world, but
 And I've still got a few weeks left in South Africa. Julia and I have big plans. I'll be sure to bring back some pictures and stories.
 
 ![Seniors knitting at Ikamva Labantu]({{ site.url }}/journal/media/2013-11-12-seniors.jpg)  
-* [Ikamva Labantu][] Senior Club working on crafts in Khayelitsha.*
+*[Ikamva Labantu][] Senior Club working on crafts in Khayelitsha.*
 
 ![Julia and team]({{ site.url }}/journal/media/2013-11-12-cwbsa-team.jpg)  
 *Julia and the Sinovuyo team. Right to left: Julia, Viwe, Andiswa, Nontobeko, Fundiswa, Jamie. Thandi at the bottom.*
