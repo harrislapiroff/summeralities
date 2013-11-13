@@ -1,0 +1,128 @@
+.post-content, .post-date, .site-description {
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 32px;
+	font-family: Lato, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border-top: 10px solid #800;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+	font-family: Lato, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: 32px;
+	margin-bottom: 16px;
+}
+
+p, blockquote {
+	margin: 0 0 32px 0;
+}
+
+hr {
+	margin: 30px auto 29px auto;
+	width: 20%;
+	border-color: #CCC;
+}
+
+blockquote {
+	padding: 0;
+	padding-left: 20px;
+	border-left: 5px solid #EEE;
+	font-style: italic;
+	color: #666;
+}
+blockquote, blockquote p {
+	font-size: inherit;
+	line-height: inherit;
+}
+
+.site-title > a {
+	color: #800;
+}
+
+.section-title {
+	padding-bottom: 15px;
+	margin-bottom: 0;
+	color: #999;
+}
+
+.post-list-item {
+	color: #333;
+	display: block;
+	padding: 8px 0 7px 0;
+	border-top: 1px solid #EEE;
+}
+.post-list-item:hover {
+	text-decoration: none;
+}
+.post-list-item > .post-title {
+	font-weight: 700;
+}
+.post-list-item > .post-date {
+	display: inline-block;
+	color: #999;
+}
+
+.post-content img {
+	max-width: 100%;
+	border-radius: 6px;
+}
+
+.header-image {
+	margin-top: 30px;
+	position: relative;
+}
+.header-image > .image-caption {
+	font-size: 14px;
+	line-height: 20px;
+	color: #E5E5E5;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	padding: 2px 8px;
+	background: rgba(0,0,0,.5);
+	border-radius: 0 0 6px 6px;
+	opacity: 0;
+	transition: .15s linear opacity;
+	-webkit-font-smoothing: antialiased;
+}
+.header-image:hover > .image-caption {
+	opacity: 1;
+}
+.header-image > .image-caption > strong {
+	color: #FFF;
+	font-weight: 700;
+}
+.header-image > .image-caption a {
+	color: #9EF;
+}
+
+.footnotes {
+	margin-top: 30px;
+	padding-top: 27px;
+	padding-bottom: 30px;
+	border-top: 3px double #EEE;
+	font-size:16px;
+	line-height: 20px;
+	color: #666;
+}
+.footnotes p{
+	margin: 10px 0;
+}
+
+.footer {
+	padding-top: 15px;
+	padding-bottom: 16px;
+	border-top: 1px solid #EEE;
+	color: #BBB;
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.footer a {
+	color: #999;
+}
