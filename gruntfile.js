@@ -1,6 +1,7 @@
 module.exports = function(grunt) {
 
 	grunt.initConfig({
+		clean: ['static/'],
 		copy: {
 			main: {
 				files: [
@@ -17,7 +18,8 @@ module.exports = function(grunt) {
 	});
 
 	grunt.loadNpmTasks('grunt-contrib-copy');
+	grunt.loadNpmTasks('grunt-contrib-clean');
 
-	grunt.registerTask('default', ['copy'])
+	grunt.registerTask('default', ['clean','copy'])
 
 };
