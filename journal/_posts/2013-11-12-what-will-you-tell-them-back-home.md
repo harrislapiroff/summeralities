@@ -23,7 +23,7 @@ And I've still got a few weeks left in South Africa. Julia and I have big plans.
 *[Ikamva Labantu][] Senior Club working on crafts in Khayelitsha.*
 
 ![Julia and team]({{ site.url }}/journal/media/2013-11-12-cwbsa-team.jpg)  
-*Julia and the Sinovuyo team. Right to left: Julia, Viwe, Andiswa, Nontobeko, Fundiswa, Jamie. Thandi at the bottom.*
+*Julia and the Sinovuyo team. Left to right: Julia, Viwe, Andiswa, Nontobeko, Fundiswa, Jamie. Thandi at the bottom.*
 
 ![Wine Tasting]({{ site.url }}/journal/media/2013-11-12-wine.jpg)  
 *Wine tasting with Petrus.*
