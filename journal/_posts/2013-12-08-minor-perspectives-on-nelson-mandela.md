@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Small Perspectives on Nelson Mandela
+title: Minor Perspectives on Nelson Mandela
 ---
 
 A lot of people back home have been asking me what it's like to be in South Africa in the wake of Nelson Mandela's death. The truth is twofold: 1.) I don't really have a lot of perspective on that and 2.) it's not as exciting as you would think. Enough of my friends have asked what it's like here that I've realized that for most of my friends I am their only direct tether to South Africa. So, with the caveat that I am a temporary resident, not fully integrated into South African life and with limited experience, I'll share my experience and some thoughts.
