@@ -3,7 +3,7 @@ layout: post
 title: Starving Children
 image: /journal/media/2013-12-22-clowns.jpg
 image_title: Clowns
-image_caption: "Sabee, me, Suzie, and Julia"
+image_caption: "Sabee, me, Susie, and Julia"
 ---
 
 My birthday was on November 24th. I celebrated a quarter-century of life on the planet. Julia and I were in Durban, on the eastern coast of South Africa in the KwaZulu-Natal province. KZN (that's "kay *zed* en," Americans), for short. We were at the beach, with two of her friends who she hadn't seen for some time.
