@@ -14,6 +14,6 @@ When Susie heard that it was my birthday, she jumped up, "Why didn't you say?!"
 
 "Yeah," Julia added, playing along, "How dare you have a birthday without telling everyone."
 
-Susie is incredibly sweet and thoughtful. We were sitting at a restaurant called Wahooz on the Promenade. Julia and Susie went to get drinks for the group and Susie slipped off on her own for a bit, unexplained. When she returned, she brought two slices of birthday cake for the four of us to split.
+Susie is incredibly sweet and thoughtful. We were sitting at a restaurant called Wahooz on the Promenade. Julia and Susie went to get drinks for the group and Susie slipped off on her own for a bit, unexplained. (Later: "I don't like to lie, but if you don't ask me where I'm going...") When she returned, she brought two slices of birthday cake for the four of us to split.
 
-As the afternoon wore on, slipping between serious conversation and goofing off, we finished all but a couple bites of the delicious and sweet cake. "Here," Susie said, offering us the cake and smiling mischievously, "There's starving children in Africa."
+As the afternoon wore on, slipping between serious conversation and goofing off, we finished all but a couple bites of the delicious and sweet cake. "Here," Susie said, offering us the last bites of cake and smiling mischievously, "There's starving children in Africa."
