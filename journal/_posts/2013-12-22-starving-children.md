@@ -8,7 +8,7 @@ image_caption: "Sabee, me, Suzie, and Julia"
 
 My birthday was a on November 24th. I celebrated a quarter-century of life on the planet. Julia and I were in Durban, on the eastern coast of South Africa in the KwaZulu-Natal province. KZN (that's "kay *zed* en," Americans), for short. We were at the beach, with two of her friends who she hadn't seen for some time.
 
-Susie and Sabee are friends Julia knows from working with [Clowns Without Borders South Africa](http://www.cwbsa.org/)—an organization that develops and runs a variety of workshops, performances, benefits, &c. for poor communities in South Africa. They're constantly playful, ready to jump into clown-mode at the drop of a hat. We walked along the beach, playing with funny walks, following games, and goofy improvised scenes all afternoon—periodically approaching groups of small children to teach them 
+Susie and Sabee are friends Julia knows from working with [Clowns Without Borders South Africa](http://www.cwbsa.org/)—an organization that develops and runs a variety of workshops, performances, benefits, &c. for poor communities in South Africa. They're constantly playful, ready to jump into clown-mode at the drop of a hat. We walked along the beach, playing with funny walks, following games, and goofy improvised scenes all afternoon—periodically approaching groups of small children to teach them songs and dances.
 
 When Susie heard that it was my birthday, she jumped up, "Why didn't you say?!"
 
