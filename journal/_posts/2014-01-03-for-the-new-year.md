@@ -18,7 +18,7 @@ I tend to make resolutions at times in my life when I'm feeling stagnant, dissat
 
 * * *
 
-What is there to say about 2013? That it was one of the most satisfying years of my life. That I read a lot. That my politics grew and strengthened. That I left my home and office of seven years to travel for four months. That I learned to play the guitar. That I made many friends. That I fell in love. That I found a new home among friends in Washington DC.
+What is there to say about 2013? That it was one of the most satisfying years of my life. That I read a lot. That my politics grew and strengthened. That I left my home and office of seven years to travel for four months. The I lived outside of the U.S. for longer than ever before. That I lived with a lover for longer than ever before. That I learned to play the guitar. That I made many friends. That I fell in love. That I maintained old relationships. That I found a new home among friends in Washington DC.
 
 What is there to say about 2014? That the roads I see ahead of me are unpaved. That I'm settling in somewhere new. That I'm working on how to build a life without the sensation of settling down. That I'm laying the groundwork for new things[^spoilers]. That I don't know what's going to happen next, but I feel ready and excited.
 
