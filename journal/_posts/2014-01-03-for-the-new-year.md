@@ -6,7 +6,7 @@ image_title: January 2009
 image_caption: "So much has changed, but so much is also the same."
 ---
 
-Five years ago, on New Year's Day 2009, I wrote this in my LiveJournal[^lj]:
+Five years ago to this day—January 3rd, 2009—I wrote this in my LiveJournal[^lj]:
 
 > Something tricky about January 1st is that it feels arbitrary—it doesn’t deliberately coincide with anything else in my life. Fall, for instance, when school starts up and changes everything makes much more sense as the start of a year. (Of course that will likely change post-graduation, but right now that seems an eternity away.) Especially at a time in my life when I find myself questioning almost all special occasions (I felt unbelievably distant from Christmas, Hanukkah this year. Every step I took to celebrate with family was like walking through a swamp.) celebrating the new year feels completely disconnected. As when celebrating a birthday every year, I still wake up the next morning with the uncomfortable feeling that nothing is different.
 
