@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Your New Jekyll Site
 ---
 
 {% if site.categories.journal[0].image %}
@@ -21,34 +20,43 @@ title: Your New Jekyll Site
 	<div class="col-md-4">
 		<h1 class="section-title">Journal</h1>
 		<div class="post-list">
-			{% for post in site.categories.journal %}
+			{% for post in site.categories.journal limit:5 %}
 				<a href="{{ post.url }}" class="post-list-item">
 					<span class="post-title">{{ post.title }}</span>
 					<span class="post-date">{{ post.date | date_to_string }}</span>
 				</a>
 			{% endfor %}
+			{% if site.categories.journal | size > 5 %}
+				<a class="post-list-item" href="{{ site.url }}/journal/"><i class="fa fa-archive"></i> All Journal Entries</a>
+			{% endif %}
 		</div>
 	</div>
 	<div class="col-md-4">
 		<h1 class="section-title">Art <span class="amp">&amp;</span> Poetry</h1>
 		<div class="post-list">
-			{% for post in site.categories.art-and-poetry %}
+			{% for post in site.categories.art-and-poetry limit:5 %}
 				<a href="{{ post.url }}" class="post-list-item">
 					<span class="post-title">{{ post.title }}</span>
 					<span class="post-date">{{ post.date | date_to_string }}</span>
 				</a>
 			{% endfor %}
+			{% if site.categories.books | size > 5 %}
+				<a class="post-list-item" href="{{ site.url }}/art-and-poetry/"><i class="fa fa-heart"></i> All Art <span class="amp">&amp;</span> Poetry</a>
+			{% endif %}
 		</div>
 	</div>
 	<div class="col-md-4">
 		<h1 class="section-title">Books</h1>
 		<div class="post-list">
-			{% for post in site.categories.books %}
+			{% for post in site.categories.books limit:5 %}
 				<a href="{{ post.url }}" class="post-list-item">
 					<span class="post-title">{{ post.title }}</span>
 					<span class="post-date">{{ post.date | date_to_string }}</span>
 				</a>
 			{% endfor %}
+			{% if site.categories.books | size > 5 %}
+				<a class="post-list-item" href="{{ site.url }}/books/"><i class="fa fa-book"></i> All Books</a>
+			{% endif %}
 		</div>
 	</div>
 </div>

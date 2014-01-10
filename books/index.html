@@ -1,0 +1,15 @@
+---
+layout: default
+title: Books
+---
+
+<h1>Books</h1>
+
+<div class="post-list">
+	{% for post in site.categories.books %}
+		<a href="{{ post.url }}" class="post-list-item">
+			<span class="post-title">{{ post.title }}</span>
+			<span class="post-date">{{ post.date | date_to_string }}</span>
+		</a>
+	{% endfor %}
+</div>

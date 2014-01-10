@@ -115,6 +115,7 @@ blockquote, blockquote p {
 }
 
 .footer {
+	margin-top: 32px;
 	padding-top: 15px;
 	padding-bottom: 16px;
 	border-top: 1px solid #EEE;
