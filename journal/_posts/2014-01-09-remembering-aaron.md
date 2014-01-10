@@ -7,7 +7,7 @@ Nearly a year ago, Aaron Swartz committed suicide. He wasn't someone I knew. He 
 
 He was more than a hacker. He was an organizer and an activist. He made huge quantities of private government information public. He was harassed to death by MIT and the U.S. Department of Justice after illegally downloading a ton of academic journal articles. I hope that even if you didn't know who he was, you'll take a moment to read some of what has been written about him and by him, because when he died we lost one of the really good guys. He had already made a difference in the world. He was only 26 years old. He would have done so much more.
 
-When he died I spent a lot of time reading what other people were writing about him. I spent time absorbing the anger and the weeping. Tim Berners-Lee, the inventor of the web sent [this email](http://lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html):
+When he died I spent a lot of time reading what other people were writing about him. I spent time absorbing the anger and the weeping. Tim Berners-Lee, the inventor of the web, sent [this email](http://lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html):
 
 > Aaron is dead.  
 >   
