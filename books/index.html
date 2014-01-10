@@ -3,7 +3,7 @@ layout: default
 title: Books
 ---
 
-<h1>Books</h1>
+<h1>Books <small>{{ site.categories.books | size }} books</small></h1>
 
 <div class="post-list">
 	{% for post in site.categories.books %}
