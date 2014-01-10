@@ -3,7 +3,7 @@ layout: post
 title: Remembering Aaron
 ---
 
-Nearly a year ago, Aaron Swartz committed suicide. He wasn't someone I knew. He was a coder like me, but unlike me, when he was 14 years old when he helped author RSS, one of the foundational blocks of publishing (everything from blogs to newspapers to Twitter) on the web. He was instrumental in work at [Creative Commons](http://creativecommons.org/). He was one of the co-founders at [Reddit](http://www.reddit.com/).
+Nearly a year ago, Aaron Swartz committed suicide. He wasn't someone I knew. He was a coder like me, but unlike me, when he was 14 years old when he helped author RSS, one of the foundational blocks of publishing (everything from blogs to newspapers to Twitter) on the web. He was instrumental in work at [Creative Commons](http://creativecommons.org/). He was one of the co-founders at [Reddit](http://www.reddit.com/). He had a hand in numerous technologies and ideas that I use on a daily basis.
 
 He was more than a hacker. He was an organizer and an activist. He made huge amounts of private government information public. He was harassed to death by MIT and the U.S. Department of Justice after illegally downloading a lot of academic journal articles. I hope that even if you didn't know who he was, you'll take a moment to read some of what has been written about him and by him, because when he died we lost one of the really good guys. He had already made a difference in the world. He was only 26 years old. He would have done so much more.
 
