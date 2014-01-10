@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Art & Poetry"
+---
+
+<h1>Art <span class="amp">&amp;</span> Poetry</h1>
+
+<div class="post-list">
+	{% for post in site.categories.art-and-poetry %}
+		<a href="{{ post.url }}" class="post-list-item">
+			<span class="post-title">{{ post.title }}</span>
+			<span class="post-date">{{ post.date | date_to_string }}</span>
+		</a>
+	{% endfor %}
+</div>
