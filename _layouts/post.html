@@ -25,14 +25,14 @@ layout: default
 			{{ content }}
 			<div class="post-after-content">
 				<p class="text-muted"><em>Summeralities doesn&#8217;t have a commenting system, but I love getting feedback, thoughts, questions, and ideas. Please do send those to me!&nbsp;<a href="mailto:harris@chromamine.com">harris@chromamine.com</a>.</em>&nbsp;&hearts;</p>
-				<p>
+				<div class="flushpad dark">
 					{% if page.next %}
-						<strong>Read next:</strong> <a href="{{ page.next.url }}">{{ page.next.title }}</a> <em class="text-muted">in {{ page.next.categories | camelcase }}</em><br />
+						<strong>Read next:</strong> <a href="{{ page.next.url }}">{{ page.next.title }}</a> <em class="text-muted">in {{ page.next.categories | camelcase }}</em><br /><br />
 					{% endif %}
 					{% if page.previous %}
 						{% if page.next %}or previously:{% else %}<strong>Previously:</strong>{% endif %} <a href="{{ page.previous.url }}">{{ page.previous.title }}</a> <em class="text-muted">in {{ page.previous.categories | camelcase }}</em>
 					{% endif %}
-				</p>
+				</div>
 			</div>
 		</div>
 	</div>
