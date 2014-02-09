@@ -13,7 +13,7 @@ What scares me is how easy it is to react this way to loneliness, to make loneli
 
 I've been thinking about loneliness as circumstance, as something that can be accepted and leaned into when necessary rather than fought against. How can I take this extra time that I have for myself and turn it into something productive. Self-work, reading, projects, art, charity, and ambition can all flourish in isolation. If it must be that I spend less time socializing, perhaps that time can be put to good use. This, also, is something I have been working on.
 
-And I've been thinking about how to turn loneliness into solitude. How to take loneliness, which causes self-doubt, and turn it into self-love: solitary drawn-out baths, meditation, long walks in the rain, nights spent reading a book with a pot of tea. There is so much love in me, waiting to given to others who step up to receive it, but probably there is also love for myself and in the absence of others on long lonely days and evenings, I can discover it.
+And I've been thinking about how to turn loneliness into solitude. How to take loneliness, which causes self-doubt, and turn it into self-love: solitary drawn-out baths, meditation, long walks in the rain, nights spent reading a book with a pot of tea. There is so much love in me, waiting to be given to others who step up to receive it, but probably there is also love for myself and in the absence of others on long lonely days and evenings, I can discover it.
 
 ***
 
