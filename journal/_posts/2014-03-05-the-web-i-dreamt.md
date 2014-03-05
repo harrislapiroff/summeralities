@@ -26,7 +26,7 @@ I've been thinking recently: we inhabit an age in which most of our communicatio
 
 In short: this isn't the web I dreamt of.
 
-There's a lot of good things: millions of people use the internet casually and constantly these days to communicate, to connect, to organize, and to create. It's not just for nerds anymore. But there are also a lot of problems. I don't know how these problems will be righted. Anil is optimistic about it:
+There's a lot of good things: billions of people use the internet casually and constantly these days to communicate, to connect, to organize, and to create. It's not just for nerds anymore. But there are also a lot of problems. I don't know how these problems will be righted. Anil is optimistic about it:
 
 > We'll fix these things; I don't worry about that. The technology industry, like all industries, follows cycles, and the pendulum is swinging back to the broad, empowering philosophies that underpinned the early social web.
 
