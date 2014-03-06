@@ -15,7 +15,7 @@ When I think about the web and how I approached it back then, when I think about
 
 One of the things I miss most about those days is the way I unabashedly pursued ideas I had. I was a fast coder and when something occured to me, I built it out and shared it immediately. These days I'm slow and cautious. There's a bunch of new overhead for starting any new project, deployment details, open-source details, dependencies, &c., &c. There are concerns about how dedicated I am to the project, how long my interest in it will last, how well I can execute it.
 
-Most of the time, these days, when I've got an idea of something to build, I'll realize that someone else has already done it better; I'll realize that Facebook or Twitter or Google already solves the problem I'm triyng to solve. I'll decide I can't compete with major corporations or funded startups and I'll just let the idea go. I leave it to the others.
+Most of the time, these days, when I've got an idea of something to build, I'll realize that someone else has already done it better; I'll realize that Facebook or Twitter or Google already solves the problem I'm trying to solve. I'll decide I can't compete with major corporations or funded startups and I'll just let the idea go. I leave it to the others.
 
 
 But there's a lot of things I don't like about the web we inhabit now, the one that these companies built. The web I cut my teeth on was open and distributed. Tech entrepreneur and writer Anil Dash wrote a blog post, [The Web We Lost](http://dashes.com/anil/2012/12/the-web-we-lost.html)[^anil], that really drove home for me how much things have changed in the past decade:
