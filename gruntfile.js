@@ -10,7 +10,7 @@ module.exports = function(grunt) {
 					{expand: true, flatten: true, src: ["_static/bower/bootstrap/dist/css/*"], dest: "static/bootstrap/css/"},
 					{expand: true, flatten: true, src: ["_static/bower/font-awesome/css/*"], dest: "static/font-awesome/css/"},
 					{expand: true, flatten: true, src: ["_static/bower/font-awesome/fonts/*"], dest: "static/font-awesome/fonts/"},
-					{src: ["_static/bower/jquery/jquery.min.js"], dest: "static/jquery/jquery.min.js"},
+					{src: ["_static/bower/jquery/dist/jquery.min.js"], dest: "static/jquery/jquery.min.js"},
 					{src: ["_static/base.css"], dest: "static/base.css"}
 				]
 			}
