@@ -25,7 +25,7 @@ image_title: "Oberlin OH, 2008"
 
 What is this place?
 
-Nearly eight months ago, I made the choice to resurrect a habit of regular writing via this previously neglected blog.[^summer] I published [*We're not as pretty as the dragonflies*]({% post_url 2013-08-03-dragonflies %}). It's still one of my favorites. It captures the start of a pivotal moment of excitement and uncertainty in my life that is still unfolding—a personal January. It was an appropriate moment to return to writing—a habit that is equal parts contemplation and record-keeping.
+Nearly eight months ago, I made the choice to resurrect a habit of regular writing via this previously neglected blog.[^summer] I published [*We're not as pretty as the dragonflies*]({% post_url 2013-08-03-dragonflies %}). It's still one of my favorites. It captures the start of a pivotal moment of excitement and uncertainty in my life that is still unfolding—a personal January. It was an appropriate moment to return to writing—a habit that for me is equal parts contemplation and record-keeping.
 
 Since then I've written (more or less) two pieces every month. Some have been more substatial than others. Many have been more personal; a few have been more political; most have had elements of both. Nearly everything I've written has been without conclusion. That's the kind of writer I seem to be. I explore. I organize. I rarely develop anything solid enough carve in stone.
 
