@@ -37,4 +37,4 @@ Most of all, I need to quell the perfectionist in me. It's strange to refer to a
 
 Then, if it's good, or *good enough*, I put it here. I expose it to the sunshine. That's what this place is.
 
-[^summer]: The previous iteration of Summeralities was started in July of 2011 with [*On Writing*]({% post_url 2011-07-05-on-writing %}). That post could be considered the prequel to this one. When I brought Summeralities in for remodel in August 2014, I found that I had only written four essays in the intervening three years.
+[^summer]: The previous iteration of Summeralities was started in July of 2011 with [*On Writing*]({% post_url 2011-07-05-on-writing %}). That post could be considered the prequel to this one. When I brought Summeralities in for remodel in August 2014, I found that I had only written four essays in the intervening two years.
