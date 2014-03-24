@@ -7,11 +7,11 @@ Nine reasons why I write:
 
 1. to clarify my thoughts to myself.
 2. to clarify my thoughts to others.
-3. to ensure that there is a record of my life and thoughts for me in the future.
+3. to ensure that there is a record of my life and thoughts for myself in the future.
 4. to ensure that there is a record of my life and thoughts for when I am gone.
 5. because writing occupies me and keeps me company when I am lonely, sad, trying to think through something, or avoiding thinking about something.
 6. to express my politics and make others think.
-7. to connect the dots of my life: to link theory with practice, to make order out of disconnected events, and to dig more deeply into the events in my life.
+7. to connect the dots of my life: to link theory with practice, to make order out of disconnected events, and to dig more deeply into my experiences.
 8. because in third grade I decided that I was a writer and that declaration of identity never stopped reverberating inside me.
 9. because when I haven't for a while, guilt plagues me.
 
