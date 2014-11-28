@@ -6,7 +6,7 @@ image_title: "November 25, 2014"
 image_caption: "#DCFerguson No Indictment Rally in Washington DC"
 ---
 
-I don't know what to say about the recent events in Ferguson MO and the failure to indict Darren Wilson for his murder of Michael Brown. I don't want to argue with people who believe this isn't a race issue or who believe that justice somehow *has* been sufficiently served. I've been spending a lot of time with the news and that's exhausting enough. I don't want to be silent because silence is complicity but neither do I believe I have a important perspective to add. I'm pretty good at collecting things that other people have said, so presented here are some scraps of writing that I find myself referring to lately and a few of my own thoughts.
+I don't know what to say about the recent events in Ferguson MO and the failure to indict Darren Wilson for his murder of Michael Brown. I don't want to argue with people who believe this isn't a race issue or who believe that justice somehow *has* been sufficiently served. I've been spending a lot of time with the news and that's exhausting enough. I don't want to be silent because silence is complicity but neither do I believe I have an important perspective to add. I'm pretty good at collecting things that other people have said, so presented here are some scraps of writing that I find myself referring to lately and a few of my own thoughts.
 
 * * *
 
