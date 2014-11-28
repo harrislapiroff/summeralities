@@ -94,7 +94,7 @@ And then, sometimes, I read this one:
 >
 > — Jeffrey McDaniel
 
-* * *
+![Protest sign: list of names]({{ site.url }}/journal/media/2014-11-28-dcferguson-names.jpg)
 
 Amid calls for _peace_ from Darren Wilson's defenders _as well as_ putative allies of activists (e.g., Obama), I find myself thinking a lot about peace, non-violence, and violence. I've seen the word "violent" in the news used to describe everything from personal physical injury to looting to blocking streets as though those are all the same crime and should be treated with equal condemnation. They are not and should not. And though I don't condone violence, I know that "Peace!" is the rallying cry of the status quo. I can't concede that passively accepting a violent state is more ethical than disruptive and violent resistance nor do I think it is my place to tell black people how they should react to their continued oppression.
 
@@ -122,7 +122,7 @@ And the other day, Ta-Nehisi Coates wrote a [wonderful piece](http://www.theatla
 >
 > "Property damage and looting" is a fairly accurate description of the emancipation of black people in 1865, who only five years earlier constituted some $4 billion in property. The Civil Rights Bill of 1964 is inseparable from the threat of riots. The housing bill of 1968—the most proactive civil-rights legislation on the books—is a direct response to the riots that swept American cities after King was killed. Violence, lingering on the outside, often backed nonviolence during the civil-rights movement.
 
-* * *
+![Protest sign: Know Justice,Know Peace / No Justice, No Peace]({{ site.url }}/journal/media/2014-11-28-dcferguson-know-justice.jpg)
 
 One night in high school, or maybe it was one of my early summers back home from college, I was sitting in a car with a few of my white friends. It was after dark and the public park we were stopped in was legally closed. A cop car pulled up alongside us. I was stoned, as people sometimes are, and terrified. We knew the park closed at sundown, but we played dumb. "Oh, sorry, officer, we didn't realize it was closed. We must have missed that sign at the gate." Maybe we smelled of weed. Maybe the cop didn't notice. He let us go and we drove off, out of the park, back to the safety of someone's home.
 
@@ -132,7 +132,7 @@ If you've never read *The New Jim Crow*, and you don't understand how racism per
 
 I am not white, but I am nevertheless the beneficiary of racial privilege many times over. I hate it. My soul rebels against it. I don't know what else there is left for me to say.
 
-* * *
+![Protest sign: This Is A Disgrace]({{ site.url }}/journal/media/2014-11-28-dcferguson-disgrace.jpg)
 
 # Further Reading
 
