@@ -20,7 +20,7 @@ A world without encryption or with encryption that is deliberately hamstrung (by
 * [*Top Intel Lawyer Says Terror Attack Would Help Push for Anti-Encryption Legislation*](https://theintercept.com/2015/09/16/top-intel-lawyer-pushing-anti-encryption-legislation-says-terror-attack-help/), Dan Froomkin, Jenna McLaughlin
 
   > The intelligence community’s top lawyer, Robert S. Litt, told colleagues in an August email obtained by the Washington Post that Congressional support for anti-encryption legislation “could turn in the event of a terrorist attack or criminal event where strong encryption can be shown to have hindered law enforcement.”
-
+  >
   > So he advised “keeping our options open for such a situation.”
 
 * [*Surveillance Self-Defence*](https://ssd.eff.org/en), The Electronic Frontier Foundation
