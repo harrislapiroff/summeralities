@@ -1,7 +1,7 @@
 name: Summeralities
 description: "It’s always summer here.<br /><br />Art, writing, and increasing disquiet by Harris Lapiroff."
 markdown: kramdown
-highlighter: pygments
-url: http://summer.whimsicaliti.es
+highlighter: rouge
+url: 
 safe: true
 lsi: false
